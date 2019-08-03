@@ -1,5 +1,4 @@
-def email_address(
-    username, domain): return f'Email Address: {username}{domain}'
+email_address = lambda username, domain: f'Email Address: {username}{domain}'
 
 # def email_address(
 #     username, domain): return f'Email Address: {username}{domain}'
