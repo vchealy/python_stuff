@@ -4,7 +4,9 @@ def wrap(n):
     return f
 
 numbers='one', 'two', 'three'
+print(type(numbers))  # For Information Only
 funcs=[]
+print(type(funcs))  # For Information Only
 for n in numbers:
     funcs.append(wrap(n))
 
