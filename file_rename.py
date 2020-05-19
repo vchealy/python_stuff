@@ -14,7 +14,7 @@ def name_changer(a):
 
     """
     os.chdir(
-        "a"
+        a
     )  # Change to the directory where files are to be renamed
     # print(os.getcwd())  # To confirm the correct folder is opened
 
