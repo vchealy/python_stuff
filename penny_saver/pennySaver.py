@@ -1,11 +1,13 @@
+# pennySaver.py
 # Penny Calculator
-#
+
 # Year start is a fixed date to 01/01/2019
-# 
-# Calculates how much you will save by the end of the year if you start on that day 
-# Start on that day with the number of pennies for that day is calculated
-# Increasing by a penny each day
-# 
+
+''' 
+ Calculates how much you will save by the end of the year if you start on that day 
+ Start on that day with the number of pennies for that day is calculated
+ Increasing by a penny each day
+'''
 from datetime import datetime
 from time import time
 
