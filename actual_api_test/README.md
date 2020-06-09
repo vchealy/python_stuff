@@ -1,8 +1,8 @@
 Vincent Healy August 2019
 Written using Visual Studio Code v 1.37.1 with Python Extension
 
-# Running the scripts in Visual Studio Code v 1.37.1 with Python Extension gave random errors
-# Successful runs in Windows Powershell with the latest Python installation
+Running the scripts in Visual Studio Code v 1.37.1 with Python Extension gave random errors
+Successful runs in Windows Powershell with the latest Python installation
 
 script_one.py - The first location reverse geocode details
 
