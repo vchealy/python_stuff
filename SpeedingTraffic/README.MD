@@ -1,4 +1,4 @@
-##This is my idea for the future of speed cameras.
+This is my idea for the future of speed cameras.
 
 Prior to the camera there is a speed detection. If this is faster than the speed limit.
 There  will be an illuminated line showing the discrepancy between the actual speed and the 
